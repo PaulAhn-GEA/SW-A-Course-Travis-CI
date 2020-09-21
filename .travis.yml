@@ -1,0 +1,6 @@
+language:
+  c
+
+script:
+  - make hello_world
+  - ./hello_world
